@@ -2,6 +2,10 @@ KIWI
 https://raw.githubusercontent.com/kiwipool/tn-special/main/kiwi.json
 https://tinyurl.com/mryrv2m9
 
+RAMEN
+https://raw.githubusercontent.com/kiwipool/tn-special/refs/heads/main/ramen.json
+https://tinyurl.com/yu3v44rh
+
 Sanchonet:
 
 https://raw.githubusercontent.com/kiwipool/tn-special/main/constipation_2.txt
